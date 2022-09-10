@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Account Page</string>
+    <string name="user_name_text">Enter your user name</string>
+    <string name="user_password_text">Enter your password</string>
+
+
+    //  uyelik sayfasına ait bilgiler
+
+    <string name="email">Enter your E-mail</string>
+    <string name="phone">Enter your phone number</string>
+    <string name="address">Enter your address</string>
+    <string name="date">Enter date</string>
+    <string name="signuploginbtn">Log In</string>
+    <string name="signupsavebtn">Save</string>
+
+
+</resources>
